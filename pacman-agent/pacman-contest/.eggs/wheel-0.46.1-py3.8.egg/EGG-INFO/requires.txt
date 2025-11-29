@@ -1,0 +1,5 @@
+packaging>=24.0
+
+[test]
+pytest>=6.0.0
+setuptools>=77
