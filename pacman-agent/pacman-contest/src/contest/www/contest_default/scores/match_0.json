@@ -1,0 +1,37 @@
+{
+    "games": [
+        [
+            "Red",
+            "Blue",
+            "defaultCapture.lay",
+            6,
+            "Blue",
+            130.0,
+            0
+        ]
+    ],
+    "layouts": [
+        "defaultCapture.lay"
+    ],
+    "max_steps": 1200,
+    "teams_stats": {
+        "Blue": [
+            100.0,
+            3,
+            1,
+            0,
+            0,
+            0,
+            6
+        ],
+        "Red": [
+            0.0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    }
+}
