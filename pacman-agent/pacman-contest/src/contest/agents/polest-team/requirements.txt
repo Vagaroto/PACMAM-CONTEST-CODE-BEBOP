@@ -1,4 +1,0 @@
-torch>=1.9.0
-numpy>=1.20.0
-PyYAML>=5.3.1
-frozendict>=2.3.0
